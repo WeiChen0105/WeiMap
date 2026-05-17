@@ -1,6 +1,6 @@
 效果：
 
-![](鸿蒙地图效果.gif)
+![](MapGIF.gif)
 
 ```markdown
 # WeiMap - 鸿蒙地图应用
