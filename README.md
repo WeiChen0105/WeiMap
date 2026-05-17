@@ -1,6 +1,6 @@
 效果：
 
-![]([https://github.com/WeiChen0105/WeiMap/edit/main/鸿蒙地图效果.gif](https://github.com/WeiChen0105/WeiMap/blob/main/%E9%B8%BF%E8%92%99%E5%9C%B0%E5%9B%BE%E6%95%88%E6%9E%9C.gif))
+![](鸿蒙地图效果.gif)
 
 ```markdown
 # WeiMap - 鸿蒙地图应用
