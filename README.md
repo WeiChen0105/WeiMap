@@ -1,3 +1,7 @@
+效果：
+
+![](C:\Users\13528\DevEcoStudioProjects\WeiMap\鸿蒙地图效果.gif)
+
 ```markdown
 # WeiMap - 鸿蒙地图应用
 
@@ -41,6 +45,8 @@
 采用 **MVVM (Model-View-ViewModel)** 架构模式，结合 **Service Layer** 和 **Renderer** 分层设计：
 
 ```
+
+
 
 ┌─────────────────────────────────────┐
 │         View Layer (UI)             │
@@ -664,3 +670,5 @@ hvigorw assembleHap --mode module -p product=default -p module=entry@default
 - `geoLocationManager.isLocationEnabled()`: 检查定位服务是否开启
 ---
 
+
+```
