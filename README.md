@@ -1,6 +1,5 @@
 效果：
-
-![](MapGIF.gif)
+<img width="501" height="1040" alt="MapGIF" src="https://github.com/user-attachments/assets/22271570-2eb2-44fd-bcbc-b381d9c35e32" />
 
 ```markdown
 # WeiMap - 鸿蒙地图应用
